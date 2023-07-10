@@ -1,8 +1,10 @@
 title: Julie Son-Garcia # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/IMG_3533.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- Data driven healthcare lab technologist who loves to travel, eat diverse foods, sip on Froses, spend time with her husband and two little kids. 
-  <br><br>
+ Data driven healthcare lab technologist <br><br>
+ who loves to travel, eat diverse foods, <br><br>
+ sip on Froses, spend time with her <br><br>
+ husband and two little kids. <br><br>
   <a href="https://www.linkedin.com/in/julie-sg2016/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
