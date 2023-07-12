@@ -2,10 +2,8 @@
 <img src="images/FoodAppCoverpag.JPG?raw=true"/>
 
 **Why this Project:** <br><br/>
-    Doordash is a popular online food delivery app that changed the way people order in! Before we would call the specific store and speak to an associate to place an order for pickup or delivery. Now Doordash is available to give customers option to choose any store that uses Doordash for food delivery. This is a game changer because some stores did not have an option for delivery. Doordash makes it possible by providing a “Dasher” to pick up your order and deliver it to your location. <br><br/>
-    Personally, when I work in NYC, during a group lunch we always order using Doordash because of convenience. At my suburban home we have very limited eatery options and delivery can take longer than expected when it's just easier to just hop in your car and pick up at most 10 minutes away. With two kids, Doordash is only used when necessary such as when meals at home was inedible or simply just not enough time. But it is great to have the option of an online food delivery app. <br><br/>
-
-
+    Doordash is a popular online food delivery app that changed the way people order in! Before we would call the specific store and speak to an associate to place an order for pickup or delivery. Doordash makes it possible by providing a “Dasher” to pick up your order and deliver it to your location. Having the Doordash option is a lifesaver especially for team building or luncheons. <br><br/>
+    
 
 **The dataset** <br><br/>
     In this study we will look at data originally obtained from [iFoods](https://github.com/nailson/ifood-data-business-analyst-test/blob/master/ifood_df.csv) which is the Brazilian equivalent of Doordash. For educational purposes, the dataset I’ll be using will be slightly modified. The data is collected for year 2014 to 2016. How many people actually use this service? How much money are people actually spending? Do single people use Doordash more? With simple use of Excel spreadsheets these are the key information I got from exploring the data. <br><br/>
