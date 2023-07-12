@@ -4,28 +4,11 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project]
-<
+#### [Order-In with DoorDash-Excel Analysis](/DoorDashExcel/)
 
----
-#### [Linked File Project]
+<img src="images/FoodAppCoverpag.JPG?raw=TRUE"/>
+This project is one of my first data analysis project from Avery Smith's DAA boot camp. We used Excel spreadsheets to perform descriptive and exploratory analysis using Doordash dataset. Excel is a powerful tool using this small dataset to give business insights and explore marketing strategies. 
 
----
-#### [External Link Project]
----
-#### [Education Project]
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
