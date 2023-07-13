@@ -1,9 +1,9 @@
 ## Pull, Pop, Pour!
 
-**Project description:** My team has been asked by the Coors Brewing Company to be quality control consultants. 
+ 
 <img src="images/CoorsLightBeer.jpg?raw=true"/>
 
-
+**Project description:** My team has been asked by the Coors Brewing Company to be quality control consultants. Coors Brewing Company manufactures cans to package their beer.
 
 ### 1. You can have sections and text.
 
