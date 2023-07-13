@@ -1,6 +1,7 @@
-## This can be a template for an internal prject
+## Pull,Pop, Pour!
 
-**Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
+**Project description:** My team has been asked by the Coors Brewing Company to be quality control consultants. 
+
 
 Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
