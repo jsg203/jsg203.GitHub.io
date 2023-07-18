@@ -12,5 +12,5 @@ This project is one of my first data analysis project from Avery Smith's DAA boo
 
 #### [Pull,Pop,Perfection!](https://www.linkedin.com/pulse/pull-pop-perfection-julie-son-garcia-mb-ascp-cm)
 
-
-
+<img src="images/CoorsCapability.png?raw=TRUE"/>
+Graduate school Team project for Statistical Quality Control. We are asked to be Quality Control Consultants and analyze beer can process capability and performance!
