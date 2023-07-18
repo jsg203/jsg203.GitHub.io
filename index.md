@@ -1,8 +1,21 @@
 # Welcome to My Portfolio
 
----
+I've decided to study Applied Statistics at RIT in Rochester, NY in 2021. During Covid Quarantine in 2020, I kept thinking about what else I can learn and how to grow and gain more skills. Statistics, programming, and public speaking are all daunting subjects to me. But I believe with more practice, I'll get better at it. I'm almost at the finish line in December 2023. <br><br/>
+I've learned: <br><br/>
+-R programming in RStudio <br><br/>
+-RMarkdown to make my reports <br><br/>
+-Minitab software <br><br/>
+-JMP software <br><br/>
 
-### Learn About My Projects
+And I've enrolled in Data Analysis Accelerator bootcamp to create projects in: <br><br/>
+-Excel <br><br/>
+-Tableau <br><br/>
+-SQL <br><br/>
+-R <br><br/>
+-Python <br><br/>
+
+
+
 
 #### [Order-In with DoorDash-Excel Analysis](/DoorDashExcel.md/)
 
